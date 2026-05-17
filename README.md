@@ -27,7 +27,6 @@ Text **User** package directory:
 
 Then activate with **Preferences → Select Color Scheme…**.
 
-## Source of truth
+## License
 
-The `.sublime-color-scheme` files in this directory are generated artifacts.
-Edit `source/palette.json` and run `npm run build:sublime` to regenerate.
+MIT — see [LICENSE](LICENSE).
