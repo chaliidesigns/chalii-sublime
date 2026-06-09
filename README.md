@@ -1,4 +1,4 @@
-# Makinda Themes — Sublime Text
+# Makinda Color Scheme — Sublime Text
 
 Premium light and dark color schemes for Sublime Text 3 / 4 with warm orange
 accents and excellent readability.
@@ -12,7 +12,7 @@ accents and excellent readability.
 
 1. Open the command palette: <kbd>Cmd</kbd>/<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Run **Package Control: Install Package**
-3. Choose **Makinda Themes**
+3. Choose **Makinda Color Scheme**
 4. Activate via **Preferences → Select Color Scheme…** and pick _Makinda Light_
    or _Makinda Dark_
 
