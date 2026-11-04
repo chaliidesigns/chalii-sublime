@@ -1,20 +1,20 @@
-# Makinda Color Scheme — Sublime Text
+# Chalii Themes — Sublime Text
 
 Premium light and dark color schemes for Sublime Text 3 / 4 with warm orange
 accents and excellent readability.
 
 ## Variants
 
-- **Makinda Light**
-- **Makinda Dark**
+- **Chalii Light**
+- **Chalii Dark**
 
 ## Install via Package Control
 
 1. Open the command palette: <kbd>Cmd</kbd>/<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 2. Run **Package Control: Install Package**
-3. Choose **Makinda Color Scheme**
-4. Activate via **Preferences → Select Color Scheme…** and pick _Makinda Light_
-   or _Makinda Dark_
+3. Choose **Chalii Themes**
+4. Activate via **Preferences → Select Color Scheme…** and pick _Chalii Light_
+   or _Chalii Dark_
 
 ## Manual install
 
@@ -27,6 +27,7 @@ Text **User** package directory:
 
 Then activate with **Preferences → Select Color Scheme…**.
 
-## License
+## Source of truth
 
-MIT — see [LICENSE](LICENSE).
+The `.sublime-color-scheme` files in this directory are generated artifacts.
+Edit `source/palette.json` and run `npm run build:sublime` to regenerate.
