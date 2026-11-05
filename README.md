@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Chalii Themes — Sublime Text</h1>
+<h1 align="center">🎨 Chalii Themes - Sublime Text</h1>
 
 <p align="center">
   Premium light and dark color schemes for Sublime Text 3 / 4 with warm orange accents and excellent readability.<br>
@@ -25,10 +25,10 @@
 
 ## 🌟 Highlights
 
-- ☀️🌙 **Two variants** — **Chalii Light** and **Chalii Dark**, sharing one brand palette
+- ☀️🌙 **Two variants** - **Chalii Light** and **Chalii Dark**, sharing one brand palette
 - 🟠 **Warm orange accents** on a clean white or deep `#0e0e0f` background
-- 🔁 **Generated, not hand-edited** — both schemes are built from `source/palette.json` in the main [chalii-themes](https://github.com/chaliidesigns/chalii-themes) repo
-- 📦 **Package Control ready** — ships `package.json` metadata plus install/update messages
+- 🔁 **Generated, not hand-edited** - both schemes are built from `source/palette.json` in the main [chalii-themes](https://github.com/chaliidesigns/chalii-themes) repo
+- 📦 **Package Control ready** - ships `package.json` metadata plus install/update messages
 
 ## ✨ Features
 
@@ -86,14 +86,14 @@ chalii-sublime/
 
 ## 👤 Author
 
-**Chalii Designs** — design & engineering studio by Jackson Makinda — [makindajackson.com](https://makindajackson.com)
+**Chalii Designs** - design & engineering studio by Jackson Makinda - [makindajackson.com](https://makindajackson.com)
 
 - 📧 Email: me@makindajackson.com
 - 💼 LinkedIn: [Jackson Makinda](https://linkedin.com/in/makindajack)
 - 🎨 Dribbble: [@makindajack](https://dribbble.com/makindajack)
 - 🐦 Twitter: [@makindajack](https://twitter.com/makindajack)
 
-Part of the **Chalii** design ecosystem — [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime Icons](https://github.com/chaliidesigns/chalii-icons-sublime) • [Zed](https://github.com/chaliidesigns/chalii-zed) • [Obsidian](https://github.com/chaliidesigns/chalii-obsidian)
+Part of the **Chalii** design ecosystem - [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime Icons](https://github.com/chaliidesigns/chalii-icons-sublime) • [Zed](https://github.com/chaliidesigns/chalii-zed) • [Obsidian](https://github.com/chaliidesigns/chalii-obsidian)
 
 ---
 
